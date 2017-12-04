@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efe1d870-b8e0-4429-8957-41e65afd3c7e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/doc/intro.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project.clj" afterPath="$PROJECT_DIR$/project.clj" />
+      <change beforePath="$PROJECT_DIR$/src/advent_to_code/core.clj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/advent_to_code/day1.clj" afterPath="$PROJECT_DIR$/2017/day1.clj" />
+      <change beforePath="$PROJECT_DIR$/src/advent_to_code/day2.clj" afterPath="$PROJECT_DIR$/2017/day2.clj" />
+      <change beforePath="$PROJECT_DIR$/src/advent_to_code/day3.clj" afterPath="$PROJECT_DIR$/2017/day3.clj" />
+      <change beforePath="$PROJECT_DIR$/test/advent_to_code/core_test.clj" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
+      <file leaf-file-name="day1.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017/day1.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day2.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017/day2.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day3.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017/day3.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clojure</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/advent_to_code/day1.clj" />
+        <option value="$PROJECT_DIR$/src/advent_to_code/day2.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1220" />
+    <option name="y" value="618" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="advent-to-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent-to-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advent-to-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advent-to-code" type="462c0819:PsiDirectoryNode" />
+              <item name="2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\clojure\advent-to-code\2017\" />
+      <recent name="C:\projects\clojure\advent-to-code\2017\advent_to_code" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1512328345551">{:repl-history {:ide [], :local [{:command &quot;(reduce (fn [acc xs] (println xs)) '() '((11 2 1) (11 2 1)))&quot;, :offset 32, :ns &quot;user&quot;} {:command &quot;(reduce (fn [acc xs] (println (aplly max xs)) '() '((11 2 1) (11 2 1))))&quot;, :offset 45, :ns &quot;user&quot;} {:command &quot;(reduce (fn [acc xs] (println (apply max xs)) '() '((11 2 1) (11 2 1))))&quot;, :offset 34, :ns &quot;user&quot;} {:command &quot;(reduce (fn [acc xs] (println (apply max xs))) '() '((11 2 1) (11 2 1)))&quot;, :offset 46, :ns &quot;user&quot;} {:command &quot;(reduce (fn [acc xs] (- (apply max xs) (apply min xs))) '() '((11 2 1) (11 2 1)))&quot;, :offset 71, :ns &quot;user&quot;} {:command &quot;(reduce (fn [acc xs] (conj acc (- (apply max xs) (apply min xs))) '() '((11 2 1) (11 2 1))))&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(reduce (fn [acc xs] (conj acc (- (apply max xs) (apply min xs)))) '() '((11 2 1) (11 2 1)))&quot;, :offset 67, :ns &quot;user&quot;} {:command &quot;(reduce (fn [acc xs] (conj acc (- (apply max xs) (apply min xs)))) '() '((11 2 1) (10 2 1)))&quot;, :offset 85, :ns &quot;user&quot;} {:command &quot;(reduce (fn [acc xs] (conj acc (- (apply max xs) (apply min xs)))) '((11 2 1) (10 2 1)))&quot;, :offset 66, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map (fn [xs] (map (fn [x] (Integer. x) xs))))\n     (reduce (fn [acc xs] (conj acc (- (apply max xs) (apply min xs)))) '()))&quot;, :offset 204, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map (fn [xs] (map (fn [x] (Integer. x) xs))))\n     (map (fn [xs] (- (apply max xs) (apply min xs)))))&quot;, :offset 184, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map (fn [xs] (map (fn [x] (Integer. x) xs))))\n     (map (fn [xs] println xs)))&quot;, :offset 158, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map (fn [xs] (map (fn [x] (Integer. x) xs))))\n     (map (fn [xs] (println xs))))&quot;, :offset 149, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map (fn [xs] (map (fn [x] (Integer. x) xs))))\n     (map (fn [xs] (apply min xs))))&quot;, :offset 161, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map #(map (fn [x] (Integer. x) %)))\n     (map (fn [xs] (apply min xs))))&quot;, :offset 112, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map #(map (fn [x] (Integer. x) %)))\n     (map #(apply min %)))&quot;, :offset 144, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map #(map (fn [x] 1 %))))\n     &quot;, :offset 102, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)) \n     (map #(%)))\n     &quot;, :offset 89, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;)))\n     &quot;, :offset 76, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(println %)))&quot;, :offset 97, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] println xs) %)))&quot;, :offset 112, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (println xs)) %)))&quot;, :offset 114, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %)))&quot;, :offset 120, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #([(apply max %) (apply min %)])))&quot;, :offset 159, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #((apply max %))))&quot;, :offset 145, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #(apply max %)))&quot;, :offset 132, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #([(apply max %)])))&quot;, :offset 134, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #(vect (apply max %))))&quot;, :offset 137, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #(vec (apply max %))))&quot;, :offset 135, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #(vec [(apply max %)])))&quot;, :offset 138, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #(vec [(apply max %) (apply min %)])))&quot;, :offset 168, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #(vec [(apply max %) (apply min %)]))\n     (map #(- (first %) (second %))))&quot;, :offset 205, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;11\\t2\\t1\\n2\\t4\\t11\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #(vec [(apply max %) (apply min %)]))\n     (map #(- (first %) (second %)))\n     (reduce +))&quot;, :offset 219, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (str/split \&quot;278\\t1689\\t250\\t1512\\t1792\\t1974\\t175\\t1639\\t235\\t1635\\t1690\\t1947\\t810\\t224\\t928\\t859\\n160\\t50\\t55\\t81\\t68\\t130\\t145\\t21\\t211\\t136\\t119\\t78\\t174\\t155\\t149\\t72\\n4284\\t185\\t4499\\t273\\t4750\\t4620\\t4779\\t4669\\t2333\\t231\\t416\\t1603\\t197\\t922\\t5149\\t2993\\n120\\t124\\t104\\t1015\\t1467\\t110\\t299\\t320\\t1516\\t137\\t1473\\t132\\t1229\\t1329\\t1430\\t392\\n257\\t234\\t3409\\t2914\\t2993\\t3291\\t368\\t284\\t259\\t3445\\t245\\t1400\\t3276\\t339\\t2207\\t233\\n1259\\t78\\t811\\t99\\t2295\\t1628\\t3264\\t2616\\t116\\t3069\\t2622\\t1696\\t1457\\t1532\\t268\\t82\\n868\\t619\\t139\\t522\\t168\\t872\\t176\\t160\\t1010\\t200\\t974\\t1008\\t1139\\t552\\t510\\t1083\\n1982\\t224\\t3003\\t234\\t212\\t1293\\t1453\\t3359\\t326\\t3627\\t3276\\t3347\\t1438\\t2910\\t248\\t2512\\n4964\\t527\\t5108\\t4742\\t4282\\t4561\\t4070\\t3540\\t196\\t228\\t3639\\t4848\\t152\\t1174\\t5005\\t202\\n1381\\t1480\\t116\\t435\\t980\\t1022\\t155\\t1452\\t1372\\t121\\t128\\t869\\t1043\\t826\\t1398\\t137\\n2067\\t2153\\t622\\t1479\\t2405\\t1134\\t2160\\t1057\\t819\\t99\\t106\\t1628\\t1538\\t108\\t112\\t1732\\n4535\\t2729\\t4960\\t241\\t4372\\t3960\\t248\\t267\\t230\\t5083\\t827\\t1843\\t3488\\t4762\\t2294\\t3932\\n3245\\t190\\t2249\\t2812\\t2620\\t2743\\t2209\\t465\\t139\\t2757\\t203\\t2832\\t2454\\t177\\t2799\\t2278\\n1308\\t797\\t498\\t791\\t1312\\t99\\t1402\\t1332\\t521\\t1354\\t1339\\t101\\t367\\t1333\\t111\\t92\\n149\\t4140\\t112\\t3748\\t148\\t815\\t4261\\t138\\t1422\\t2670\\t32\\t334\\t2029\\t4750\\t4472\\t2010\\n114\\t605\\t94\\t136\\t96\\t167\\t553\\t395\\t164\\t159\\t284\\t104\\t530\\t551\\t544\\t18\&quot; #\&quot;\\n\&quot;)\n     (map #(str/split % #\&quot;\\t\&quot;))\n     (map #(map (fn [xs] (Integer. xs)) %))\n     (map #(vec [(apply max %) (apply min %)]))\n     (map #(- (first %) (second %)))\n     (reduce +))&quot;, :offset 1402, :ns &quot;user&quot;} {:command &quot;(part1 \&quot;278\\t1689\\t250\\t1512\\t1792\\t1974\\t175\\t1639\\t235\\t1635\\t1690\\t1947\\t810\\t224\\t928\\t859\\n160\\t50\\t55\\t81\\t68\\t130\\t145\\t21\\t211\\t136\\t119\\t78\\t174\\t155\\t149\\t72\\n4284\\t185\\t4499\\t273\\t4750\\t4620\\t4779\\t4669\\t2333\\t231\\t416\\t1603\\t197\\t922\\t5149\\t2993\\n120\\t124\\t104\\t1015\\t1467\\t110\\t299\\t320\\t1516\\t137\\t1473\\t132\\t1229\\t1329\\t1430\\t392\\n257\\t234\\t3409\\t2914\\t2993\\t3291\\t368\\t284\\t259\\t3445\\t245\\t1400\\t3276\\t339\\t2207\\t233\\n1259\\t78\\t811\\t99\\t2295\\t1628\\t3264\\t2616\\t116\\t3069\\t2622\\t1696\\t1457\\t1532\\t268\\t82\\n868\\t619\\t139\\t522\\t168\\t872\\t176\\t160\\t1010\\t200\\t974\\t1008\\t1139\\t552\\t510\\t1083\\n1982\\t224\\t3003\\t234\\t212\\t1293\\t1453\\t3359\\t326\\t3627\\t3276\\t3347\\t1438\\t2910\\t248\\t2512\\n4964\\t527\\t5108\\t4742\\t4282\\t4561\\t4070\\t3540\\t196\\t228\\t3639\\t4848\\t152\\t1174\\t5005\\t202\\n1381\\t1480\\t116\\t435\\t980\\t1022\\t155\\t1452\\t1372\\t121\\t128\\t869\\t1043\\t826\\t1398\\t137\\n2067\\t2153\\t622\\t1479\\t2405\\t1134\\t2160\\t1057\\t819\\t99\\t106\\t1628\\t1538\\t108\\t112\\t1732\\n4535\\t2729\\t4960\\t241\\t4372\\t3960\\t248\\t267\\t230\\t5083\\t827\\t1843\\t3488\\t4762\\t2294\\t3932\\n3245\\t190\\t2249\\t2812\\t2620\\t2743\\t2209\\t465\\t139\\t2757\\t203\\t2832\\t2454\\t177\\t2799\\t2278\\n1308\\t797\\t498\\t791\\t1312\\t99\\t1402\\t1332\\t521\\t1354\\t1339\\t101\\t367\\t1333\\t111\\t92\\n149\\t4140\\t112\\t3748\\t148\\t815\\t4261\\t138\\t1422\\t2670\\t32\\t334\\t2029\\t4750\\t4472\\t2010\\n114\\t605\\t94\\t136\\t96\\t167\\t553\\t395\\t164\\t159\\t284\\t104\\t530\\t551\\t544\\t18\&quot; #\&quot;\\n\&quot;)\n     &quot;, :offset 5, :ns &quot;user&quot;} {:command &quot;(sort '(5 9 2 8))&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(sort &gt; '(5 9 2 8))&quot;, :offset 8, :ns &quot;user&quot;} {:command &quot;(for [xs '(9 8 5 2) \n      x (head xs)\n      ys (rest xs)] \n  [x ys])&quot;, :offset 67, :ns &quot;user&quot;} {:command &quot;(for [xs '(9 8 5 2) \n      x (first xs)\n      ys (rest xs)] \n  [x ys])&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(first '(9 0))\n&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(rest '(9 0))\n&quot;, :offset 5, :ns &quot;user&quot;} {:command &quot;(for [xs '(9 8 5 2) \n      x (first xs)\n      ys (rest xs)] \n  x)&quot;, :offset 63, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2) \n      x (first xs)\n      ys (rest xs)] \n  x)&quot;, :offset 4, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2) \n      x (first xs)\n      ys (rest xs)] \n  [x ys])&quot;, :offset 68, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2)]\n  (for [x (first xs)\n        y (rest xs)]\n    [x ys]))&quot;, :offset 67, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2)]\n  (for [xs \n          :let [x (first xs) \n                y (rest xs)]]\n    [x ys]))&quot;, :offset 105, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2)]\n  (for [xs \n          :let [x (first xs) \n                y (rest xs)]]\n    [x y]))&quot;, :offset 101, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2)]\n  (for [x xs y xs]\n    (/ x y)))&quot;, :offset 50, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2)]\n  (for [x xs y xs]\n    (mod x y)))&quot;, :offset 48, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2)]\n  (for [x xs y xs]\n    [x y]))&quot;, :offset 47, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2)]\n  (for [x xs :while (not= x y) y xs]\n    [x y]))&quot;, :offset 50, :ns &quot;user&quot;} {:command &quot;(let [xs '(9 8 5 2)]\n  (for [x xs y xs :while (not= x y)]\n    [x y]))&quot;, :offset 56, :ns &quot;user&quot;} {:command &quot;(let [xs '(2 5 8 9)]\n  (for [x xs y xs :while (not= x y)]\n    [x y]))&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         [x y])))&quot;, :offset 85, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         [x y]))\n     (filter #((= 0 (mod %)))))&quot;, :offset 111, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         [x y]))\n     (filter #((= 0 (mod (first %) (second %))))))&quot;, :offset 129, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         [x y]))\n     (filter #(= 0 (mod (first %) (second %)))))&quot;, :offset 133, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         [x y]))\n     (filter #(= 0 (mod (first %) (second %))))\n     (map /))&quot;, :offset 144, :ns &quot;user&quot;} {:command &quot;(/ 2 4)\n   &quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         '(x y)))\n     (filter #(= 0 (mod (first %) (second %))))\n     (map #(/ (first %) (second %))))&quot;, :offset 79, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         (list x y)))\n     (filter #(= 0 (mod (first %) (second %))))\n     (map #(/ (first %) (second %))))&quot;, :offset 83, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         (list x y)))\n     (filter #(= 0 (mod (first %) (second %))))\n     (map /))&quot;, :offset 149, :ns &quot;user&quot;} {:command &quot;(doc /)&quot;, :offset 6, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (let [xs '(2 5 8 9)]\n       (for [x xs y xs :while (not= x y)]\n         [x y]))\n     (filter #(= 0 (mod (first %) (second %))))\n     (map #(/ (first %) (second %))))&quot;, :offset 170, :ns &quot;user&quot;} {:command &quot;(get-div '(1 2 5 3 6))&quot;, :offset 20, :ns &quot;user&quot;} {:command &quot;(get-div '(5 9 2 8))&quot;, :offset 20, :ns &quot;user&quot;} {:command &quot;(get-div '(9 4 7 3))&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(get-div '(3 8 6 5))&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(get-div '(5 1 9 5))&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(get-div '(5 1 9 5))\n            &quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(part2 \&quot;5\\t1\\t9\\t5\\n7\\t5\\t3\\n2\\t4\\t6\\t8\&quot;)&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;(get-div '(7 5 3))\n\n            &quot;, :offset 19, :ns &quot;user&quot;} {:command &quot;(part2 \&quot;5\\t9\\t2\\t8\\n9\\t4\\t7\\t3\\n3\\t8\\t6\\t5\&quot;)&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;(part2 (replace {\&quot; \&quot; \&quot;\\t\&quot;} \&quot;5 1 9 5\\n7 5 3\\n2 4 6 8\&quot;))&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(part2 (str/replace \&quot;5 1 9 5\\n7 5 3\\n2 4 6 8\&quot; \&quot; \&quot; \&quot;\\t\&quot;))&quot;, :offset 53, :ns &quot;user&quot;} {:command &quot;(part2 \&quot;278\\t1689\\t250\\t1512\\t1792\\t1974\\t175\\t1639\\t235\\t1635\\t1690\\t1947\\t810\\t224\\t928\\t859\\n160\\t50\\t55\\t81\\t68\\t130\\t145\\t21\\t211\\t136\\t119\\t78\\t174\\t155\\t149\\t72\\n4284\\t185\\t4499\\t273\\t4750\\t4620\\t4779\\t4669\\t2333\\t231\\t416\\t1603\\t197\\t922\\t5149\\t2993\\n120\\t124\\t104\\t1015\\t1467\\t110\\t299\\t320\\t1516\\t137\\t1473\\t132\\t1229\\t1329\\t1430\\t392\\n257\\t234\\t3409\\t2914\\t2993\\t3291\\t368\\t284\\t259\\t3445\\t245\\t1400\\t3276\\t339\\t2207\\t233\\n1259\\t78\\t811\\t99\\t2295\\t1628\\t3264\\t2616\\t116\\t3069\\t2622\\t1696\\t1457\\t1532\\t268\\t82\\n868\\t619\\t139\\t522\\t168\\t872\\t176\\t160\\t1010\\t200\\t974\\t1008\\t1139\\t552\\t510\\t1083\\n1982\\t224\\t3003\\t234\\t212\\t1293\\t1453\\t3359\\t326\\t3627\\t3276\\t3347\\t1438\\t2910\\t248\\t2512\\n4964\\t527\\t5108\\t4742\\t4282\\t4561\\t4070\\t3540\\t196\\t228\\t3639\\t4848\\t152\\t1174\\t5005\\t202\\n1381\\t1480\\t116\\t435\\t980\\t1022\\t155\\t1452\\t1372\\t121\\t128\\t869\\t1043\\t826\\t1398\\t137\\n2067\\t2153\\t622\\t1479\\t2405\\t1134\\t2160\\t1057\\t819\\t99\\t106\\t1628\\t1538\\t108\\t112\\t1732\\n4535\\t2729\\t4960\\t241\\t4372\\t3960\\t248\\t267\\t230\\t5083\\t827\\t1843\\t3488\\t4762\\t2294\\t3932\\n3245\\t190\\t2249\\t2812\\t2620\\t2743\\t2209\\t465\\t139\\t2757\\t203\\t2832\\t2454\\t177\\t2799\\t2278\\n1308\\t797\\t498\\t791\\t1312\\t99\\t1402\\t1332\\t521\\t1354\\t1339\\t101\\t367\\t1333\\t111\\t92\\n149\\t4140\\t112\\t3748\\t148\\t815\\t4261\\t138\\t1422\\t2670\\t32\\t334\\t2029\\t4750\\t4472\\t2010\\n114\\t605\\t94\\t136\\t96\\t167\\t553\\t395\\t164\\t159\\t284\\t104\\t530\\t551\\t544\\t18\&quot;)&quot;, :offset 4, :ns &quot;user&quot;} {:command &quot;(part 1 \&quot;278\\t1689\\t250\\t1512\\t1792\\t1974\\t175\\t1639\\t235\\t1635\\t1690\\t1947\\t810\\t224\\t928\\t859\\n160\\t50\\t55\\t81\\t68\\t130\\t145\\t21\\t211\\t136\\t119\\t78\\t174\\t155\\t149\\t72\\n4284\\t185\\t4499\\t273\\t4750\\t4620\\t4779\\t4669\\t2333\\t231\\t416\\t1603\\t197\\t922\\t5149\\t2993\\n120\\t124\\t104\\t1015\\t1467\\t110\\t299\\t320\\t1516\\t137\\t1473\\t132\\t1229\\t1329\\t1430\\t392\\n257\\t234\\t3409\\t2914\\t2993\\t3291\\t368\\t284\\t259\\t3445\\t245\\t1400\\t3276\\t339\\t2207\\t233\\n1259\\t78\\t811\\t99\\t2295\\t1628\\t3264\\t2616\\t116\\t3069\\t2622\\t1696\\t1457\\t1532\\t268\\t82\\n868\\t619\\t139\\t522\\t168\\t872\\t176\\t160\\t1010\\t200\\t974\\t1008\\t1139\\t552\\t510\\t1083\\n1982\\t224\\t3003\\t234\\t212\\t1293\\t1453\\t3359\\t326\\t3627\\t3276\\t3347\\t1438\\t2910\\t248\\t2512\\n4964\\t527\\t5108\\t4742\\t4282\\t4561\\t4070\\t3540\\t196\\t228\\t3639\\t4848\\t152\\t1174\\t5005\\t202\\n1381\\t1480\\t116\\t435\\t980\\t1022\\t155\\t1452\\t1372\\t121\\t128\\t869\\t1043\\t826\\t1398\\t137\\n2067\\t2153\\t622\\t1479\\t2405\\t1134\\t2160\\t1057\\t819\\t99\\t106\\t1628\\t1538\\t108\\t112\\t1732\\n4535\\t2729\\t4960\\t241\\t4372\\t3960\\t248\\t267\\t230\\t5083\\t827\\t1843\\t3488\\t4762\\t2294\\t3932\\n3245\\t190\\t2249\\t2812\\t2620\\t2743\\t2209\\t465\\t139\\t2757\\t203\\t2832\\t2454\\t177\\t2799\\t2278\\n1308\\t797\\t498\\t791\\t1312\\t99\\t1402\\t1332\\t521\\t1354\\t1339\\t101\\t367\\t1333\\t111\\t92\\n149\\t4140\\t112\\t3748\\t148\\t815\\t4261\\t138\\t1422\\t2670\\t32\\t334\\t2029\\t4750\\t4472\\t2010\\n114\\t605\\t94\\t136\\t96\\t167\\t553\\t395\\t164\\t159\\t284\\t104\\t530\\t551\\t544\\t18\&quot;)\n     &quot;, :offset 6, :ns &quot;user&quot;} {:command &quot;(min-max-decoder '(1 2 3 4 5))     &quot;, :offset 28, :ns &quot;user&quot;} {:command &quot;(min-max-decoder '(1 2 3 4 5))\n                         &quot;, :offset 51, :ns &quot;user&quot;} {:command &quot;(part1 \&quot;278\\t1689\\t250\\t1512\\t1792\\t1974\\t175\\t1639\\t235\\t1635\\t1690\\t1947\\t810\\t224\\t928\\t859\\n160\\t50\\t55\\t81\\t68\\t130\\t145\\t21\\t211\\t136\\t119\\t78\\t174\\t155\\t149\\t72\\n4284\\t185\\t4499\\t273\\t4750\\t4620\\t4779\\t4669\\t2333\\t231\\t416\\t1603\\t197\\t922\\t5149\\t2993\\n120\\t124\\t104\\t1015\\t1467\\t110\\t299\\t320\\t1516\\t137\\t1473\\t132\\t1229\\t1329\\t1430\\t392\\n257\\t234\\t3409\\t2914\\t2993\\t3291\\t368\\t284\\t259\\t3445\\t245\\t1400\\t3276\\t339\\t2207\\t233\\n1259\\t78\\t811\\t99\\t2295\\t1628\\t3264\\t2616\\t116\\t3069\\t2622\\t1696\\t1457\\t1532\\t268\\t82\\n868\\t619\\t139\\t522\\t168\\t872\\t176\\t160\\t1010\\t200\\t974\\t1008\\t1139\\t552\\t510\\t1083\\n1982\\t224\\t3003\\t234\\t212\\t1293\\t1453\\t3359\\t326\\t3627\\t3276\\t3347\\t1438\\t2910\\t248\\t2512\\n4964\\t527\\t5108\\t4742\\t4282\\t4561\\t4070\\t3540\\t196\\t228\\t3639\\t4848\\t152\\t1174\\t5005\\t202\\n1381\\t1480\\t116\\t435\\t980\\t1022\\t155\\t1452\\t1372\\t121\\t128\\t869\\t1043\\t826\\t1398\\t137\\n2067\\t2153\\t622\\t1479\\t2405\\t1134\\t2160\\t1057\\t819\\t99\\t106\\t1628\\t1538\\t108\\t112\\t1732\\n4535\\t2729\\t4960\\t241\\t4372\\t3960\\t248\\t267\\t230\\t5083\\t827\\t1843\\t3488\\t4762\\t2294\\t3932\\n3245\\t190\\t2249\\t2812\\t2620\\t2743\\t2209\\t465\\t139\\t2757\\t203\\t2832\\t2454\\t177\\t2799\\t2278\\n1308\\t797\\t498\\t791\\t1312\\t99\\t1402\\t1332\\t521\\t1354\\t1339\\t101\\t367\\t1333\\t111\\t92\\n149\\t4140\\t112\\t3748\\t148\\t815\\t4261\\t138\\t1422\\t2670\\t32\\t334\\t2029\\t4750\\t4472\\t2010\\n114\\t605\\t94\\t136\\t96\\t167\\t553\\t395\\t164\\t159\\t284\\t104\\t530\\t551\\t544\\t18\&quot;)\n     &quot;, :offset 5, :ns &quot;user&quot;} {:command &quot;(for [i (range 25)\n      l (i)])&quot;, :offset 29, :ns &quot;user&quot;} {:command &quot;(mod 1 8)&quot;, :offset 8, :ns &quot;user&quot;} {:command &quot;(mod 2 8)&quot;, :offset 6, :ns &quot;user&quot;} {:command &quot;(mod 0 8)&quot;, :offset 6, :ns &quot;user&quot;} {:command &quot;(mod 9 8)&quot;, :offset 6, :ns &quot;user&quot;} {:command &quot;(/ 9 8)&quot;, :offset 2, :ns &quot;user&quot;} {:command &quot;(div 9 8)&quot;, :offset 4, :ns &quot;user&quot;} {:command &quot;(% 9 8)&quot;, :offset 2, :ns &quot;user&quot;} {:command &quot;(quot 25 8)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(quot 9 8)&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(quot 10 8)&quot;, :offset 8, :ns &quot;user&quot;} {:command &quot;(quot (- 10 1) 8)&quot;, :offset 13, :ns &quot;user&quot;} {:command &quot;(quot (- 9 1) 8)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(quot (-9 2) 8)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(quot (- 8 2) 8)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(quot (- 1 2) 8)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(quot (- 9 2) 8)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(quot (- 10 2) 8)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(quot (- 25 2) 8)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(quot (- 24 2) 8)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(quot (- 23 2) 8)&quot;, :offset 11, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="REPL" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="advent-to-code" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="60" width="3872" height="2116" extended-state="6" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5669271" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="84" y="160" width="3672" height="1916" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/advent_to_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day1.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day2.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day3.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advent_to_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day1.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day2.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day3.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advent_to_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day1.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day2.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advent_to_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day1.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day2.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advent_to_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day1.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advent_to_code/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day1.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day2.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/day3.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/intro.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
