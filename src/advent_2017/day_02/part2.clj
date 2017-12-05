@@ -1,4 +1,4 @@
-(ns advent-2017.day2.part2
+(ns advent-2017.day-02.part2
   [require [advent-2017.day2.shared :as sh]])
 
 (defn div-decoder [coll]

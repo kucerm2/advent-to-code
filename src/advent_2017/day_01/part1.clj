@@ -1,4 +1,4 @@
-(ns advent-2017.day1.part1)
+(ns advent-2017.day-01.part1)
 
 (defn to-ints
   [str]
