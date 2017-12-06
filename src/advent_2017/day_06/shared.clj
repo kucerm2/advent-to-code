@@ -4,23 +4,22 @@
 
 (def input [10 3 15 10 5 15 5 15 9 2 5 8 5 2 3 6])
 
-(defn rotate
-  [max n]
-  (if (= n max) 0 (inc n)))
-
 (defn reallocate
   [next-fn v]
   (let [val (apply max v)
-        idx (.indexOf v val)]
-    (reduce
-      (fn [xs i] (update xs i inc))
-      (assoc v idx 0)
-      (->> (iterate next-fn idx)
-           (drop 1)
-           (take val)))))
+        max-ndx (.indexOf v val)]
+    (->>
+      (range val)
+      (map #(next-fn (+ (next-fn (inc max-ndx)) %)))
+      (frequencies)
+      (reduce (fn [res [k v]] (update res k + v)) (assoc v max-ndx 0)))))
 
-
-
-
-
-
+(defn solve
+  [coll]
+  (let [next-fn #(mod % (count coll))]
+    (->> (iterate (partial reallocate next-fn) coll)
+         (reduce (fn [[last-seen step] x]
+                   (if (last-seen x)
+                     (reduced [step (last-seen x)])
+                     [(assoc last-seen x step) (inc step)]))
+                 [{} 0]))))
