@@ -11,8 +11,6 @@
              false "aa bb cc dd aa"
              true "aa bb cc dd aaa"))
 
-(deftest test-solution-p1
-  (is (= 337 (p1/solve sh/input))))
 
 
 (deftest test-phrase-p2
@@ -23,6 +21,9 @@
              true "iiii oiii ooii oooi oooo"
              false "oiii ioii iioi iiio"))
 
-(deftest test-solution-p2
-  (is (= 231 (p2/solve sh/input))))
+;; long time execution task
+;(deftest test-solution-p1
+;  (is (= 337 (p1/solve sh/input))))
+;(deftest test-solution-p2
+;  (is (= 231 (p2/solve sh/input))))
 
