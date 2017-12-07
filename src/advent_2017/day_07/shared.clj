@@ -13,8 +13,8 @@
 (defn parse-tower
   [[name weight childs]]
   [name (-> {}
-          (assoc :weight (Integer. weight))
-          (assoc :child-names (parse-child-list childs)))])
+            (assoc :weight (Integer. weight))
+            (assoc :child-names (parse-child-list childs)))])
 
 (defn read-tower-line
   [line-str]
@@ -27,27 +27,37 @@
 (defn parse-input
   [file]
   (into {} (->> file
-             io/reader
-             line-seq
-             (map read-tower-line)
-             (map parse-tower))))
+                io/reader
+                line-seq
+                (map read-tower-line)
+                (map parse-tower))))
 
+(defn is-node?
+  [[name data]]
+  (-> data :child-names nil? not))
+
+(defn node-by-name
+  [nodes name]
+  [name (nodes name)])
+
+(defn get-childs
+  [nodes [name data]]
+  (->> (:child-names data)
+       (map (partial node-by-name nodes))))
+
+(defn node-seq
+  [nodes root]
+  (tree-seq is-node? (partial get-childs nodes) root))
 
 (defn build-tree
-  [towers]
-  (->> (into [] towers)
-       (filter #(-> % second :child-names nil? not))
-       (map (fn [tower]
-              (tree-seq
-                (fn [[name data]]
-                  (-> data :child-names nil? not))
-                (fn [[name data]]
-                  (->> (:child-names data)
-                       (map #(-> [% (towers %)]))))
-                tower)))
+  [nodes]
+  (->> (into [] nodes)
+       (filter is-node?)
+       (map (partial tree-seq is-node? (partial get-childs nodes)))
        (sort-by count >)
        (first)
        (first)))
+
 
 
 
