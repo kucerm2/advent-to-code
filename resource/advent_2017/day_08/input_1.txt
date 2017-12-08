@@ -1,0 +1,5 @@
+v inc 523 if t == 6
+qen dec -450 if lht != 10
+jyg dec -378 if lb != -6
+k inc -994 if z < 6
+gjr inc -698 if hbq < 9
