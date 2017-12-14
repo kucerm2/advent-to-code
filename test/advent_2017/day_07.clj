@@ -27,3 +27,8 @@
 
 (deftest solution1
   (is (= "vgzejbd" (part1/solution (sh/parse-input "resource/advent_2017/day_07/input.txt")))))
+
+;(deftest solution2
+;  (is (= 1226 (part1/solution (sh/parse-input "resource/advent_2017/day_07/input.txt")))))
+;(deftest solution2
+;  (is (= 1226 (part1/solution (sh/parse-input "resource/advent_2017/day_07/input.txt")))))
