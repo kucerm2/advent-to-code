@@ -1,6 +1,7 @@
-(ns advent-2017.day-08.part1
-  (:require [advent-2017.day-08.shared :as sh]))
+(ns advent-2017.day-10.part1
+  (:require [advent-2017.day-10.shared :as sh]))
 
 (defn solve
-  [ops]
-  (val (apply max-key val (first (sh/evaluate ops {})))))
+  [shifts]
+  (let [[x y & _] (sh/hash (into [] (range 256)) shifts)]
+    (* x y)))

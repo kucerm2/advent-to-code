@@ -10,21 +10,15 @@
 
 (defn reducer
   [[acc ignore? score garbage? garbage-count :as state] c]
-  (if ignore?
-    [acc false score garbage? garbage-count]
-    (if (= c \!)
-      [acc true score garbage? garbage-count]
-      (if (and garbage? (= c \>))
-        [acc false score false garbage-count]
-        (if garbage?
-          [acc false score true (inc garbage-count)]
-          (if (= c \<)
-            [acc false score true garbage-count]
-            (if (= c \{)
-              [acc false (inc score) false garbage-count]
-              (if (= c \})
-                [(conj acc score) false (dec score) false garbage-count]
-                state))))))))
+  (cond
+    ignore? [acc false score garbage? garbage-count]
+    (= c \!) [acc true score garbage? garbage-count]
+    (and garbage? (= c \>)) [acc false score false garbage-count]
+    garbage? [acc false score true (inc garbage-count)]
+    (= c \<) [acc false score true garbage-count]
+    (= c \{) [acc false (inc score) false garbage-count]
+    (= c \}) [(conj acc score) false (dec score) false garbage-count]
+    :else state))
 
 (defn group-score
   [seq]
