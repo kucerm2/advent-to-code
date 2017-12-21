@@ -2,5 +2,5 @@
   (:require [advent-2017.day-11.shared :as sh]))
 
 (defn solve
-  [ops]
-  (val (apply max-key val (first (sh/evaluate ops {})))))
+  [dirs]
+  (sh/dist (reduce sh/move [0 0 0] dirs)))
