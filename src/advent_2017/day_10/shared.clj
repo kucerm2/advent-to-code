@@ -17,7 +17,7 @@
   [idx max]
   (mod idx max))
 
-(defn merge
+(defn merge-sublist
   [pos sublist coll]
   (let [len (count coll)]
     (first
@@ -28,13 +28,21 @@
 
 (defn reverse-sublist
   [pos cnt coll]
-  (merge pos
-         (reverse (sublist pos cnt coll))
-         coll))
+  (merge-sublist pos
+                 (reverse (sublist pos cnt coll))
+                 coll))
 
-(defn hash
-  [coll shift-list]
-  (first (reduce (fn [[coll pos skip] shift]
-                   [(reverse-sublist pos shift coll) (+ pos shift skip) (inc skip)])
-                 [coll 0 0]
-                 shift-list)))
+(defn khash
+  [coll shift-list rep]
+  (let [coll-cnt (count coll)
+        shift-cnt (* rep (count shift-list))
+        shifts (take shift-cnt (cycle shift-list))]
+    (reduce (fn [[coll pos skip] shift]
+              [(reverse-sublist (mod pos coll-cnt) shift coll) (+ pos shift skip) (inc skip)])
+            [coll 0 0]
+            shifts)))
+
+(defn knot-hash
+  ([coll shift-list] (first (khash coll shift-list 1)))
+  ([coll shift-list rep] (first (khash coll shift-list rep))))
+

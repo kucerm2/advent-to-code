@@ -3,5 +3,5 @@
 
 (defn solve
   [shifts]
-  (let [[x y & _] (sh/hash (into [] (range 256)) shifts)]
+  (let [[x y & _] (sh/knot-hash (into [] (range 256)) shifts)]
     (* x y)))

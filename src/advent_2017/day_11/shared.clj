@@ -1,4 +1,4 @@
-(ns advent-2017.day-08.shared
+(ns advent-2017.day-11.shared
   (:require [clojure.java.io :as io]
             [clojure.edn :as edn]))
 
